@@ -47,6 +47,4 @@ The script offers the following key functionality:
 
 This script is provided under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code.
 
-## Acknowledgments
 
-This script was developed by [Your Name] as part of [Project Name/Research] at [Institution/Organization].
